@@ -7,7 +7,7 @@ export const config = {
   'aws_region': "us-east-1",
   'aws_profile': "474796527302",
   'aws_media_bucket': "udgrambucketmo2274prod",
-  'url': "http://localhost:8080",
+  'url': "http://localhost:8081",
   'jwt': {
     'secret': "hello",
   },
